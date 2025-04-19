@@ -5,7 +5,6 @@
   - Moroccan Kitchen Website using TypeScript and React and SQL
   - Appartment Location Website using TypeScript and React and SQL
   - Supermarket Management System using C# and .NET and SQL
-  - Map application using Dart and Flutter
-  - Supermarket Management System using C# and .NET and SQL.
+  - Map application using Dart and Flutter.
 - I created the Back End of a rule based Chatbot used in Health mobile application, I used Java and Spring in this project.
 - I can speak Arabic, English, French and German.
